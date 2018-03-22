@@ -1,0 +1,7 @@
+http://localhost:8080/Json/Api/Api.php?apicall=getcontenido
+
+http://localhost:8080/Json/Api/Api.php?apicall=createcontenido
+
+http://localhost:8080/Json/Api/Api.php?apicall=updatecontenido
+
+http://localhost:8080/Json/Api/Api.php?apicall=deletecontenido&id=idvalue
